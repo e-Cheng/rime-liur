@@ -15,7 +15,7 @@ patch:
   style/line_spacing: 4 #6 #1
   style/spacing: 4 #10 #5
   style/candidate_format: '%c. %@'
-  style/font_face: 'Operator Mono Bold, HanziPen TC Bold, HanziPen SC Bold, PingFangTC-Light, Times-Roman, AppleColorEmoji' #,HanaMinA,HanaMinB
+  # style/font_face: 'Operator Mono Bold, HanziPen TC Bold, HanziPen SC Bold, PingFangTC-Light, Times-Roman, AppleColorEmoji' #,HanaMinA,HanaMinB
   style/font_point: 20 #21
   style/label_font_face: 'Andale Mono'
   style/label_font_point: 14 #12 #18
